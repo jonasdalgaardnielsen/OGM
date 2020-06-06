@@ -1,0 +1,104 @@
+﻿name;20;19;18;17;16;15;14;13;12;11;10;9;8;7;6;5;4;3;2;1
+1;;;;;;;;;;;;Business;Business;Business;Business;Business;Consultancy;Consultancy;Business;NGO
+2;;;;;;;;;;;;State authority;State authority;State authority;State authority;State authority;State authority;NGO;NGO;NGO
+3;;;;;;;;;;;;;Business;Business;NGO;NGO;NGO;NGO;NGO;NGO
+4;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;Academia
+5;;;;;;;;;;;;;;;Business;Municipal authority;Municipal authority;Municipal authority;Public authority;Public authority
+6;;;;;;;;;;;;;;;Consultancy;Consultancy;NGO;Consultancy;Consultancy;NGO
+7;;;;;;;;;;Politics;Politics;Politics;Politics;Consultancy;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;NGO
+8;;;;;;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO
+9;;;;;;;;;;State authority;State authority;State authority;State authority;Municipal authority;Municipal authority;Politics;Politics;Municipal authority;Municipal authority;Municipal authority
+10;Business;State authority;State authority;NGO;NGO;NGO;NGO;NGO;IO;IO;IO;IO;IO;IO;State authority;State authority;IO;IO;IO;IO
+11;;;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;IO;NGO;NGO;NGO;NGO
+12;;;IO;Engineering;Engineering;Business;Business;Engineering;Engineering;Engineering;NGO;NGO;NGO;NGO;NGO;IO;IO;IO;IO;IO
+13;;;;;;;;;;;;;;Engineering;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+14;;;;;;;;;;;;;;;Academia;Academia;Academia;Academia;Academia;Academia
+15;;;;;;;;;;;NGO;NGO;NGO;NGO;Engineering;Engineering;Engineering;Engineering;Engineering;Engineering
+16;;;;;;;;;;;;;NGO;NGO;NGO;NGO;Academia;Academia;Academia;Consultancy
+17;;;;;;;;;;;;;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+18;;;;;;;;;State authority;State authority;State authority;Business association;State authority;State authority;State authority;Business association;State authority;Academia;Academia;Academia
+19;;;;;;;;;;;;;;Academia;No info;Academia;IO;Municipal authority;Municipal authority;Municipal authority
+20;;;;;;;;;;;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+21;;;;;;;;;;;;Academia;Academia;NGO;NGO;NGO;NGO;NGO;NGO;NGO
+22;;;;;;;;;;;;;;Academia;NGO;NGO;NGO;IO;Academia;NGO
+23;;;;;;;;;State authority;State authority;State authority;State authority;State authority;State authority;State authority;NGO;State authority;Municipal authority;Municipal authority;Municipal authority
+24;;;;;;;;;;;;;;NGO;Business association;Business;State authority;State authority;State authority;State authority
+25;;;;Academia;Academia;Business;Business;Business;Business;Business;Business;Business;Business;IO;State authority;State authority;State authority;State authority;State authority;IO
+26;;;;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+27;;;;;;;;NGO;NGO;Consultancy;Consultancy;NGO;NGO;NGO;IO;IO;IO;Consultancy;Consultancy;Consultancy
+28;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+29;;;;;;;;;Politics;Politics;Politics;Politics;Politics;Business;NGO;NGO;NGO;NGO;Consultancy;Consultancy
+30;;;;;;;;;;Municipal authority;Municipal authority;Academia;Academia;Academia;Municipal authority;Municipal authority;Municipal authority;NGO;NGO;NGO
+31;;Consultancy;Consultancy;Consultancy;Consultancy;Politics;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;Politics;Politics;Politics;Politics
+32;;;;;;;;;;;;;Business;Business;Business;Academia;Academia;NGO;NGO;NGO
+33;;;;;;;;;;;;;;;;State authority;State authority;State authority;Academia;State authority
+34;;;;;;;;;;;;NGO;NGO;NGO;NGO;NGO;State authority;State authority;State authority;State authority
+35;;;;;;;;;;;;;;Academia;Academia;NGO;NGO;NGO;NGO;NGO
+36;;;;;;;;;;;;Academia;Academia;Academia;Consultancy;NGO;NGO;NGO;NGO;NGO
+37;;;;;;;;;;;;Consultancy;Consultancy;;;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+38;;;;;;;;Politics;Politics;State authority;State authority;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;NGO;NGO;NGO
+39;;;;;;;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+40;;;;;;;;;;;;;;;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+41;;;;;;;;Business;Business;Municipal authority;;Business;Business;Municipal authority;NGO;NGO;NGO;NGO;NGO;NGO
+42;;;;;;;;;;;;;;;Business;Business;Business;Business;Business;Consultancy
+43;;;;;;;;;;;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+44;;;;;;;;;;State authority;Academia;Academia;Academia;Academia;Politics;Politics;Politics;Politics;Politics;Politics
+45;;;;;;;;;;;;IO;IO;IO;IO;IO;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+46;;;;;;;;;;;;Business;Business;Business;Academia;Academia;NGO;Academia;Academia;Academia
+47;;;;;;;;;;;;;;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+48;;;;;;;;;;;;;;;;Municipal authority;State authority;NGO;NGO;NGO
+49;;;;;;;;;;;;;;;;IO;IO;IO;IO;IO
+50;;;;;;;;;;;;;IO;IO;IO;IO;IO;IO;IO;IO
+51;;;;;;;;;;;;;;;;Business;Business;Business;Business;NGO
+52;;;;;;;;;;Consultancy;Consultancy;Consultancy;IO;IO;Academia;NGO;NGO;;;
+53;;;;;;;;;;;;;;;Academia;Academia;Academia;NGO;NGO;NGO
+54;;;;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;NGO;Academia;Academia;Academia;Academia;Academia
+55;;;;;;;;;;;;;Business;Business;Academia;Academia;State authority;NGO;NGO;NGO
+56;;;;;;;;;;;;;;;Consultancy;NGO;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+57;;;;;;;;;;Consultancy;State authority;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+58;;;;;;;;;IO;IO;;;;;IO;IO;IO;IO;IO;IO
+59;;;;;;;;;;;;Business;Business;Business;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+60;;;;;;;;Academia;Academia;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+61;;;;;;;;;;;;IO;IO;State authority;NGO;NGO;NGO;NGO;NGO;NGO
+62;;;;;;;;;;;;;;;Business;Business;Academia;Academia;Business;Business
+63;;;;;;;;;;;;;;;Academia;Consultancy;Consultancy;NGO;IO;IO
+64;;;;;;;;;Consultancy;Consultancy;Consultancy;NGO;NGO;NGO;State authority;State authority;State authority;Municipal authority;Municipal authority;Municipal authority
+65;;;;;;;;;;;;;;Municipal authority;Municipal authority;Municipal authority;;;;
+66;;;;;;;;;;;;;;;NGO;NGO;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+67;;;;;;;;;;;;;;;Academia;Academia;Municipal authority;NGO;NGO;Consultancy
+68;;;;;;;;;;;;;;;;State authority;Consultancy;Consultancy;Consultancy;Consultancy
+69;;;;;;;;;;;Business;NGO;NGO;NGO;Consultancy;Consultancy;NGO;NGO;NGO;NGO
+70;;;;;;;;;;;;;;Academia;IO;IO;Municipal authority;Municipal authority;NGO;Academia
+71;;;;;;;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO
+72;;;;;;;;;;;Business;Business;Business;NGO;NGO;IO;IO;IO;IO;IO
+73;;;;;;;;;;Academia;Academia;Academia;Academia;;;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+74;;;;;;;;;;;;;Academia;Academia;Academia;Academia;Academia;Academia;Academia;Academia
+75;;;;;;;;;;;;;;;;State authority;State authority;State authority;State authority;State authority
+76;;;;;;;;;;;;;;;;Academia;Academia;Academia;Academia;Academia
+77;;;;;;;;;;;;;;;Business;Business;Consultancy;Consultancy;Consultancy;Consultancy
+78;;;;;;;;;;;NGO;IO;IO;IO;IO;IO;IO;NGO;NGO;NGO
+79;;;;;;;;;;;;;;;Business;Business;Business;Business;;
+80;;;;;;;;;;;;;State authority;State authority;State authority;State authority;State authority;State authority;State authority;State authority
+81;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+82;;;;;;;;;;;;;;Business;Business;Academia;Business;Business;Business;Business
+83;;;;;;;;;;;;;;;;Business;Business;Business;Business;Business
+84;;;;;;;;;;;;;;Business;Business;Business;Engineering;Engineering;Engineering;Engineering
+85;;;;;;;;;;;;;;;;NGO;Business;State authority;Consultancy;Consultancy
+86;;;;;;;;;;;;State authority;State authority;Academia;Municipal authority;Municipal authority;Municipal authority;Municipal authority;NGO;NGO
+87;;;;;;;Municipal authority;Municipal authority;Municipal authority;Municipal authority;IO;IO;NGO;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+88;;;;;;;;;;;;;Business;Business;Business;Business;Business;Business;Business;Business
+89;;;;;;;;;;;;;;;;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+90;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+91;;;;;NGO;NGO;NGO;NGO;NGO;IO;IO;IO;IO;IO;Academia;Academia;Academia;Academia;Academia;Academia
+92;;;;;;;;;;;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO;NGO
+93;;;;;;;;;;Business;Consultancy;Consultancy;Consultancy;Consultancy;IO;IO;Business;Business;Business;Business
+94;;;;;;;;;;;;;NGO;Politics;Business;Business;NGO;NGO;NGO;NGO
+95;;;;;;;;;;;;;;;;Business;Business;Business;Business;Academia
+96;;;;;;;;;;;;;;NGO;NGO;NGO;NGO;NGO;Consultancy;Consultancy
+97;;;;;;;;;;;Municipal authority;Municipal authority;NGO;NGO;NGO;NGO;Municipal authority;Municipal authority;Municipal authority;Municipal authority
+98;;;;;;;;;;;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+99;;;;;;;;;;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
+100;;;;;;;;Business association;Business association;Business association;Business association;Business association;Business;NGO;NGO;NGO;NGO;NGO;NGO;NGO
+101;;;;;;;;;;;;;;;;State authority;State authority;State authority;State authority;State authority
+102;;;;;;;;Politics;Politics;Politics;Politics;Politics;Politics;Politics;Politics;Politics;Consultancy;Consultancy;Consultancy;Consultancy
+103;;IO;IO;IO;IO;Academia;Academia;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy;Consultancy
